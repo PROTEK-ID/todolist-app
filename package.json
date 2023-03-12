@@ -1,5 +1,6 @@
 {
 	"name": "todolist-app-vite",
+        "homepage": "https://todolist-app-nple.onrender.com",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
